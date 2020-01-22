@@ -24,15 +24,15 @@ const siteConfig = {
     { href: 'https://github.com/archivematica/psp', label: 'GitHub' },
   ],
 
-  headerIcon: 'img/favicon.ico',
+  headerIcon: false,
 
   footerIcon: 'img/favicon.ico',
 
   favicon: 'img/favicon.ico',
 
   colors: {
-    primaryColor: '#7484aa',
-    secondaryColor: '#515c76',
+    primaryColor: '#0e5d8fff',
+    secondaryColor: '#0e5d8fff',
   },
 
   copyright: `Copyright © ${new Date().getFullYear()} Artefactual Systems Inc.`,

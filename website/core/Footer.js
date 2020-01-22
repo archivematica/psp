@@ -24,6 +24,7 @@ class Footer extends React.Component {
   render() {
     return (
       <footer className="nav-footer" id="footer">
+        <div className="logo"><img src="/img/logo-white-orange.png"/></div>
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );
