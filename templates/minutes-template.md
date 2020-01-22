@@ -4,6 +4,8 @@ title: Meeting minutes YYYY-MM-DD
 sidebar_label: YYYY-MM-DD
 ---
 
+<!-- Don't forget to add minutes to website/sidebars.json! --!>
+
 DATE
 TIME UTC
 
