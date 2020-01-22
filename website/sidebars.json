@@ -1,7 +1,11 @@
 {
   "docs": {
-    "Documents": ["tor"],
-    "Minutes": ["20200115-minutes"],
-    "Second Category": ["doc3"]
+    "Overview": [
+    	"welcome",
+    	"terms-of-reference"
+    ],
+    "Minutes": [
+    	"minutes/20200115"
+    ]
   }
 }
