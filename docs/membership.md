@@ -28,3 +28,10 @@ Support Program should email info@artefactual.com. Please include:
   future intentions for working with and developing code for Archivematica.
 * A signed copy of the Membership Form (currently in development.)
 * Invoicing information (contact name and email.)
+
+The current Members and Artefactual will review all applications to ensure that
+the applying organization will benefit from membership in the Product Support
+Program.
+
+If you have questions about the Product Support Program, please email
+info@artefactual.com at any time.

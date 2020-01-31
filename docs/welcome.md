@@ -7,7 +7,8 @@ The Archivematica Product Support Program is a venue for organizations that are
 actively developing Archivematica to engage with other developer-users, reduce
 their own risks, improve their understanding, and help shape discussions around
 development practices and the technical architecture of the Archivematica
-project.
+project. It is organized by [Artefactual Systems,
+Inc.](https://www.artefactual.com/).
 
 This program is not about governance but about ensuring that people who are
 developing Archivematica are making as much progress as possible with the least
