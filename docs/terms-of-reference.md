@@ -8,7 +8,7 @@ title: Terms of Reference
 ## Background and Purpose
 
 The Product Support Program is a membership-based venue for organizations that
-are actively engaged in extending or customising Archivematica.  The PSP helps
+are actively engaged in extending or customising Archivematica. The PSP helps
 members reduce the costs of their Archivematica software development and better
 manage the associated risks. Members will engage with other developer-users,
 improve their understanding, and help shape discussions around development
@@ -35,7 +35,7 @@ The mandate of the Product Support Program is to improve and ensure the long
 term, sustainable usefulness and value of Archivematica to members and the
 entire global cultural memory community.
 
-The PSP provides two primary mechanisms to fulfill its mandate.  The first is a
+The PSP provides two primary mechanisms to fulfill its mandate. The first is a
 forum to discuss the software development process. Members can describe problems
 and obstacles they are experiencing, and help identify ways to improve
 development practices, identify and reduce friction in development coordination,
@@ -45,7 +45,7 @@ active and planned development work across the entire Archivematica community.
 Secondly, the PSP has an advisory role, allowing members to share their plans
 and ideas for software improvements, and receive feedback from other members and
 from Artefactual. Crucially, this process will help distinguish between product
-improvements, and customisations and extensions.  Artefactual can then take
+improvements, and customisations and extensions. Artefactual can then take
 responsibility for ensuring the core Archivematica product evolves and improves
 in a way that best meets common needs, and reduces the cost and risk of
 integration with other software components.
@@ -105,7 +105,8 @@ Support Program should email info@artefactual.com. Please include:
 
 * Information about your organization, including your past experiences and
 future intentions for working with and developing code for Archivematica.
-* A signed copy of the Membership Form.
+* A signed copy of the [Membership Form](static/Archivematica-PSP-membership-form-202.pdf).
+
 * Invoicing information (contact name and email.)
 
 The current Members and Artefactual will review all applications to ensure that
