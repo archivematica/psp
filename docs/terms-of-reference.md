@@ -106,7 +106,6 @@ Support Program should email info@artefactual.com. Please include:
 * Information about your organization, including your past experiences and
 future intentions for working with and developing code for Archivematica.
 * A signed copy of the [Membership Form](static/Archivematica-PSP-membership-form-202.pdf).
-
 * Invoicing information (contact name and email.)
 
 The current Members and Artefactual will review all applications to ensure that

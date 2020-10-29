@@ -25,13 +25,13 @@ After July 1, 2020, organizations who are interested in joining the Product
 Support Program should email info@artefactual.com. Please include:
 
 * Information about your organization, including your past experiences and
-  future intentions for working with and developing code for Archivematica.
-* A signed copy of the Membership Form (currently in development.)
+future intentions for working with and developing code for Archivematica.
+* A signed copy of the [Membership Form](static/Archivematica-PSP-membership-form-202.pdf).
 * Invoicing information (contact name and email.)
 
 The current Members and Artefactual will review all applications to ensure that
 the applying organization will benefit from membership in the Product Support
 Program.
 
-If you have questions about the Product Support Program, please email
+If you have questions about the Product Support Program, please email them to
 info@artefactual.com at any time.
