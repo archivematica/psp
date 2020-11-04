@@ -1,9 +1,9 @@
 {
   "docs": {
     "Overview": [
-    	"welcome",
+      "welcome",
       "membership",
-    	"terms-of-reference"
+      "terms-of-reference"
     ],
     "Minutes": [
       "minutes/20201021",
